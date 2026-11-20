@@ -60,10 +60,10 @@ python guardrails_scanner.py --file prompt.txt --json
 - **Compliance Standard**: OWASP Top 10 for LLM Applications Standard
 - **Maintaining Organization**: [TAVARDT-UK](https://github.com/TAVARDT-UK)
 
-## TAVARDT Ecosystem & Official Portals
+## Official Portals
 
 - **Main National Portal**: [https://ag.tavardt.com/uk/](https://ag.tavardt.com/uk/)
-- **TAVARDT Tools Hub**: [https://tools.tavardt.com/uk/](https://tools.tavardt.com/uk/)
+- **Tools Hub**: [https://tools.tavardt.com/uk/](https://tools.tavardt.com/uk/)
 - **Technical Support Channel**: [https://ag.tavardt.com/uk/contact/](https://ag.tavardt.com/uk/contact/)
 
 ---
