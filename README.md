@@ -5,7 +5,7 @@
 
 Heuristic and rule-based prompt hardening against jailbreaks, system prompt extraction, indirect prompt injection, and data exfiltration.
 
-Engineered and maintained by the artificial intelligence security team at **TAVARDT UK**.
+Engineered and maintained by the artificial intelligence security team at **TAVARDT**.
 
 ***
 
@@ -56,13 +56,8 @@ python guardrails_scanner.py -file prompt.txt -json
 ## Compliance and Technical Standards
 
 - **Compliance Standard**: OWASP Top 10 for LLM Applications Standard
-- **Maintaining Organization**: [TAVARDT-UK](https://github.com/TAVARDT-UK)
 
-## Official Portals
 
-- **Main National Portal**: [Portal Institucional](https://ag.tavardt.com/uk/)
-- **Tools Hub**: [Central de Ferramentas](https://tools.tavardt.com/uk/)
-- **Technical Support Channel**: [Canal de Contato](https://ag.tavardt.com/uk/contact/)
 
 ***
 
